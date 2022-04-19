@@ -3,7 +3,7 @@
 /**
  * get_char - gets a pointer to an array containing char and null byte
  * @args: va_list to get argument from of type char
- * @mods: length modifiers, voided, not used with this specifier
+ * @mods: length modifiers, voided, not used with this specifier 
  *
  * Return: pointer to array containing char and null byte
  */

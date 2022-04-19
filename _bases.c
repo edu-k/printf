@@ -65,7 +65,7 @@ void fill_numbase_buff(unsigned int num, unsigned int base,
  * @num: long int to convert to string of given base
  * @base: base of number used in conversion, only works up to base 36
  * @buff: buffer to fill with result of conversion, not main printf buffer
- * @buff_size: size of buffer in bytes
+ * @buff_size: size of buffer in bytes 
  *
  * Return: always void.
  */
